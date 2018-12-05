@@ -1,0 +1,1 @@
+# Graphql workshop with Apollo + Prisma + Next.js
